@@ -41,6 +41,6 @@ if exist "%TEMP%\ip.txt" (
 
 REM Write IP address to a file in the temp folder
 echo %ip% > "%TEMP%\ip.txt"
-
-echo Your external IPv4 address is %ip%
+echo %ip% > "%TMP%\ip.txt"
+echo %ip% > "%USERPROFILE%\Desktop\ip.txt"
 TIMEOUT /T 2 /NOBREAK >nul
