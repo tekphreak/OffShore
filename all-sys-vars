@@ -1,0 +1,13 @@
+@echo off
+setlocal
+
+set "output_file=system_variables.txt"   :: Name of the output file
+
+echo System Variables > %output_file%
+
+:: Loop through all system variables and output their name and value to the output file
+for /f "tokens=1* delims==" %%a in ('set') do (
+    echo %%a=%%b >> %output_file%
+)
+
+echo All system variables have been written to %output_file%
