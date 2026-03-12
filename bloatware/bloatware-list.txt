@@ -1,0 +1,79 @@
+# OffShore Bloatware List
+# One entry per line. Lines starting with # are comments.
+# Entries are matched as case-insensitive substrings against installed app names.
+# Add your own entries at the bottom of any section.
+
+# ── Antivirus Nagware / Trials ──────────────────────────────
+McAfee
+Norton
+Avast
+AVG
+Webroot
+ExpressVPN
+NordVPN
+Surfshark
+
+# ── Mobile App Ports / Social Media ─────────────────────────
+Candy Crush
+Disney+
+Facebook
+LinkedIn
+TikTok
+Twitter
+Instagram
+Spotify
+Netflix
+
+# ── Toolbar / Browser Hijackers ─────────────────────────────
+Ask Toolbar
+Conduit
+Delta Toolbar
+MyStart
+SearchProtect
+Babylon
+iLivid
+
+# ── Fake Optimization / Registry Cleaners ───────────────────
+PC Optimizer
+Registry Cleaner
+Registry Mechanic
+WinZip Driver Updater
+Driver Booster
+Driver Easy
+Advanced SystemCare
+CCleaner
+Glary Utilities
+PC Cleaner
+Wise Care
+SlimCleaner
+
+# ── Outdated / Legacy Junk ───────────────────────────────────
+RealPlayer
+QuickTime
+WildTangent
+Bonjour
+Apple Software Update
+Java Auto Updater
+Adobe Flash
+Silverlight
+Shockwave Player
+
+# ── OEM Bloat (HP, Dell, Lenovo, Samsung) ───────────────────
+HP Connected
+HP Support Assistant
+HP Sure Connect
+Dell SupportAssist
+Dell Customer Connect
+Lenovo Vantage
+Lenovo Service Bridge
+Lenovo System Update
+McAfee LiveSafe
+MyDell
+Samsung Update
+
+# ── Xbox / Gaming Extras (optional, remove if you use them) ─
+# Xbox Game Bar
+# Xbox App
+# Game Bar
+
+# ── Add your own below ──────────────────────────────────────
